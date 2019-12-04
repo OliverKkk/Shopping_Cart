@@ -1,0 +1,52 @@
+.mainbody {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+	text-transform: none;
+	background-color: #FFFFCC;
+	border: solid #000000;
+	color: #000000;
+
+}
+.menuheaders {
+	border: 1px solid #FF66FF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+}
+.tabledesign {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #FF66FF;
+	border-right-color: #FF66FF;
+	border-bottom-color: #FF66FF;
+	border-left-color: #FF66FF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #0000CC;
+	text-decoration: none;
+	border-bottom-style: none;
+
+}
+.text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+}
